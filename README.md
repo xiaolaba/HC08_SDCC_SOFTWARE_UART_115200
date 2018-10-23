@@ -1,5 +1,10 @@
 # HC08_SDCC_SOFTWARE_UART_115200
-HC08 core, software UART and timing calculation
+HC08 core, software UART and timing calculation  
+
+formula
+ticks = CPU_MHz / baud * 10^6
+padding = ticks - tick
+x = padding / 3
 
 
 ```
