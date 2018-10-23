@@ -10,7 +10,7 @@ x = padding / 3
   
 
 
-
+table
 ```
 2018/OCT-22					
 HC08 core					
@@ -77,7 +77,12 @@ CPU_MHz	baud	ticks	tick	padding	x
 
 ```  
   
-    
+  
+HC08_blink_schematic.jpg  
 ![HC08_blink_schematic.jpg](HC08_blink_schematic.jpg)  
   
+  
+putty_test_done.JPG    
 ![putty_test_done.JPG](putty_test_done.JPG)  
+
+end-
