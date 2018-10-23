@@ -75,4 +75,7 @@ CPU_MHz	baud	ticks	tick	padding	x
 8	115200	69.44 	20	49.44 	16 
 
 
-```
+```  
+  
+    
+![HC08_blink_schematic.jpg](HC08_blink_schematic.jpg)
