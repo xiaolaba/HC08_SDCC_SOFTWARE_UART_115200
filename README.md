@@ -78,4 +78,6 @@ CPU_MHz	baud	ticks	tick	padding	x
 ```  
   
     
-![HC08_blink_schematic.jpg](HC08_blink_schematic.jpg)
+![HC08_blink_schematic.jpg](HC08_blink_schematic.jpg)  
+  
+![putty_test_done.JPG](putty_test_done.JPG)  
