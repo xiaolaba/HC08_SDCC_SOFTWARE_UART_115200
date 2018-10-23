@@ -2,7 +2,7 @@
 HC08 core, software UART and timing calculation
 
 
-
+```
 2018/OCT-22					
 HC08 core					
 xiaolaba					
@@ -81,3 +81,4 @@ padding_per_bit / 3"
 8	105600	75.76 	20	55.76 	19 
 8	115200	69.44 	20	49.44 	16 
 
+```
